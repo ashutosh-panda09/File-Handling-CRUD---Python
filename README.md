@@ -37,14 +37,6 @@ File-Handling-Project/
 ├── README.md
 ```
 
----
-
-## Run the program
-
-```bash
-python main.py
-```
-
 ## 💡 Learning Outcomes
 
 This project helped me understand:
